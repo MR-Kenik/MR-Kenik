@@ -22,8 +22,6 @@
 <!-- ░░░ ВОЛНА-РАЗДЕЛИТЕЛЬ ░░░ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=120&section=header&text=&fontSize=0" />
 
-## 👋 Привет, я <название>!
-
 > Опытный full-stack разработчик. Делаю надёжные бэкенды на **.NET** и современные интерфейсы на **React + TypeScript**.
 
 - 🔭 Сейчас работаю над — *<твой текущий проект>*
@@ -98,9 +96,8 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/<твой_ник>)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kenik_l)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenik_m@mail.ru)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<твой_профиль>)
 
 </div>
 
