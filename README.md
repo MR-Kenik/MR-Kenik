@@ -22,13 +22,6 @@
 <!-- ░░░ ВОЛНА-РАЗДЕЛИТЕЛЬ ░░░ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=120&section=header&text=&fontSize=0" />
 
-> Опытный full-stack разработчик. Делаю надёжные бэкенды на **.NET** и современные интерфейсы на **React + TypeScript**.
-
-- 🔭 Сейчас работаю над — *<твой текущий проект>*
-- 🌱 Углубляюсь в — *<что изучаешь: архитектура, cloud, и т.д.>*
-- 💬 Спрашивай меня про — **C#, .NET, ASP.NET Core, React, TypeScript**
-- ⚡ Факт обо мне — *<что-нибудь интересное>*
-
 <br>
 
 <!-- ░░░ БЕЙДЖИ ТЕХНОЛОГИЙ ░░░ -->
